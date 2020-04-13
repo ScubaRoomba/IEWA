@@ -1,1 +1,0 @@
-  <p>This web page is designed to be used to demonstrate Local File Inclusions and Apache Log Poisoning.</p>
