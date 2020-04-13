@@ -1,0 +1,20 @@
+/*!
+ *  * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ *   * Copyright 2013-2019 Start Bootstrap
+ *    * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ *     */
+body {
+  padding-top: 56px;
+  background: url(../images/harambe.jpg) no-repeat center 56px fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+#rcorners {
+  border-radius: 15px 50px 30px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 1000px;
+  height: 110px; 
+}
