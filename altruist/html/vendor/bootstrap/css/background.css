@@ -1,0 +1,8 @@
+/* Set a background image by replacing the URL below */
+body {
+  background: linear-gradient(to right, #6c757d, #343a40);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}

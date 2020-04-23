@@ -1,4 +1,8 @@
-  <div id="downloads">
+<div class="container" id="downloads">
+  <div class="card border-0 shadow my-5">
+    <div class="card-body p-5">
+      <h1 class="font-weight-light">Downloads</h1>
+      <p class="lead">
 <?php 
 $downloads = glob('downloads/*');
 foreach($downloads as $download) {
@@ -9,4 +13,8 @@ foreach($downloads as $download) {
 <?php
 }
 ?>
+      </p>
+      <p class="lead mb-0">You've reached the end!</p>
+    </div>
   </div>
+</div>
